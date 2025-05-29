@@ -27,7 +27,7 @@
   margin: 1rem 0;
   background-color: #f9f9f9;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0, 1px, 8px rgba(0, 0, 0, 0.25);
 }
 
 .Expense-item__description {
